@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background-color: beige;
+    font: 1em sans-serif;
+    color: rgb(63, 69, 75);
+}
+
+#answer{
+    text-align: right;
+    margin-right:30px;
+}
+
+p{
+    text-align: left;
+    margin-left: 300px;
+}
